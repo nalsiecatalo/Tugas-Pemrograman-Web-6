@@ -1,0 +1,71 @@
+h1 {
+    color: #D065a2;
+}
+#header {
+background-color:#FFDACC;
+text-align: center;
+}
+blockquote {
+    background-color:#FF828B;
+}
+.gambar {
+    text-align: center;
+}
+.nav {
+    text-align: center;
+}
+.nav ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.nav ul li {
+    margin: 0em 1em;
+}
+.jawa {
+    color:#0DA5E3;
+    font-size: 50px;
+    font-weight: bold;
+}
+body {
+    background-color: lightpink;
+}
+.koleksi {
+    background-color: lightpink;
+    display: flex; 
+    justify-content: center;
+}
+.koleksi img {
+    width: 240px;
+}
+.promo h2 {
+    color: #5C9090;
+    text-align: center;
+}
+.harga {
+    background-color: powderblue;
+    margin: 290px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border: 1px black dotted;
+    color: #0f4cb1;
+    text-align: center;
+}
+#toko {
+    text-align: center;
+    color: deeppink;
+}
+.footer {
+    text-align: center;
+    color: #4dd091;
+}
+.footer ol {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer ol li {
+    margin: 0em 1em;
+}
